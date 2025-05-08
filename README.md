@@ -1,3 +1,4 @@
+
 # DevOps Learning 🚀
 
 Bu repo, DevOps yolculuğumda öğrendiklerimi ve yaptığım mini projeleri adım adım içeriyor.  
@@ -25,3 +26,5 @@ DevOps, yazılım geliştirme (Dev) ve sistem operasyonları (Ops) ekiplerinin b
 
 ```bash
 docker run hello-world
+#DevOps Öğreniyorum
+1.gün: Jenkins kuruldu, GitHub bağlantısı test edildi.
